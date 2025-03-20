@@ -1,0 +1,16 @@
+[
+  { "name": "Alice", "department": "HR", "role": "Manager" },
+  { "name": "Bob", "department": "Engineering", "role": "Developer" },
+  { "name": "Charlie", "department": "Sales", "role": "Representative" },
+  { "name": "Hannah", "department": "HR", "role": "Recruiter" },
+  { "name": "Ian", "department": "IT", "role": "System Administrator" },
+  { "name": "Jasmine", "department": "Marketing", "role": "Graphic Designer" },
+  { "name": "Kevin", "department": "Engineering", "role": "QA Engineer" },
+  { "name": "Lila", "department": "Finance", "role": "Financial Analyst" },
+  { "name": "Miles", "department": "IT", "role": "Network Engineer" },
+  { "name": "Nina", "department": "Sales", "role": "Sales Associate" },
+  { "name": "Diana", "department": "Marketing", "role": "Coordinator" },
+  { "name": "Ethan", "department": "Engineering", "role": "Senior Developer" },
+  { "name": "Fiona", "department": "Finance", "role": "Accountant" },
+  { "name": "George", "department": "Sales", "role": "Account Manager" }
+]
